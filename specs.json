@@ -4,11 +4,11 @@
   "groups": [
     { "name": "Moment", "specs": [
       { "id": "rapp-moment/1.0", "title": "Moment — living holographic organisms", "repo": "kody-w/rapp-commons", "raw": "https://raw.githubusercontent.com/kody-w/rapp-commons/main/MOMENT_SPEC.md" },
-      { "id": "rapp-eternity/1.0", "title": "RAPP Eternity Standard", "repo": "kody-w/RAPP-Bible", "raw": "https://raw.githubusercontent.com/kody-w/RAPP-Bible/add-moment-eternity-specs/SPEC/eternity/SPEC.md" }
+      { "id": "rapp-eternity/1.0", "title": "RAPP Eternity Standard", "repo": "kody-w/RAPP-Bible", "raw": "https://raw.githubusercontent.com/kody-w/RAPP-Bible/main/SPEC/eternity/SPEC.md" }
     ]},
     { "name": "Ecosystem & governance", "specs": [
       { "id": "ecosystem-spec", "title": "RAPP Ecosystem Spec", "repo": "kody-w/rapp-god", "raw": "https://raw.githubusercontent.com/kody-w/rapp-god/main/api/v1/ECOSYSTEM_SPEC.md" },
-      { "id": "rapp-grail-scan/1.0", "title": "Grail Scan — neuron-swarm spec compliance", "repo": "kody-w/rapp-god", "raw": "https://raw.githubusercontent.com/kody-w/rapp-god/add-grail-scan-spec/GRAIL_SCAN.md" },
+      { "id": "rapp-grail-scan/1.0", "title": "Grail Scan — neuron-swarm spec compliance", "repo": "kody-w/rapp-god", "raw": "https://raw.githubusercontent.com/kody-w/rapp-god/main/GRAIL_SCAN.md" },
       { "id": "bible-overview", "title": "RAPP Bible — Overview", "repo": "kody-w/RAPP-Bible", "raw": "https://raw.githubusercontent.com/kody-w/RAPP-Bible/main/OVERVIEW.md" },
       { "id": "bible-capabilities", "title": "RAPP Bible — Capabilities", "repo": "kody-w/RAPP-Bible", "raw": "https://raw.githubusercontent.com/kody-w/RAPP-Bible/main/CAPABILITIES.md" },
       { "id": "bible-schemas", "title": "RAPP Bible — Schemas", "repo": "kody-w/RAPP-Bible", "raw": "https://raw.githubusercontent.com/kody-w/RAPP-Bible/main/SCHEMAS.md" },
